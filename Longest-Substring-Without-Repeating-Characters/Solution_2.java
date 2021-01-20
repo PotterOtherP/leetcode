@@ -1,3 +1,4 @@
+// This is a faster solution based on the "sliding window" concept.
 public class Solution_2 {
 
     public static int lengthOfLongestSubstring(String s)

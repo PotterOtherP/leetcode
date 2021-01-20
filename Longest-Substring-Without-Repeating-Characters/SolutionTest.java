@@ -19,25 +19,25 @@ public class SolutionTest {
         System.out.println("Input: s = \"" + test1 + "\"");
         System.out.println("Output: " + Solution.lengthOfLongestSubstring(test1));
         System.out.println("Output 2: " + Solution_2.lengthOfLongestSubstring(test1));
-        // System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test1));
+        System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test1));
         System.out.println();
 
         System.out.println("Input: s = \"" + test2 + "\"");
         System.out.println("Output: " + Solution.lengthOfLongestSubstring(test2));
         System.out.println("Output 2: " + Solution_2.lengthOfLongestSubstring(test2));
-        // System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test2));
+        System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test2));
         System.out.println();
 
         System.out.println("Input: s = \"" + test3 + "\"");
         System.out.println("Output: " + Solution.lengthOfLongestSubstring(test3));
         System.out.println("Output 2: " + Solution_2.lengthOfLongestSubstring(test3));
-        // System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test3));
+        System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test3));
         System.out.println();
 
         System.out.println("Input: s = \"" + test4 + "\"");
         System.out.println("Output: " + Solution.lengthOfLongestSubstring(test4));
         System.out.println("Output 2: " + Solution_2.lengthOfLongestSubstring(test4));
-        // System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test4));
+        System.out.println("Recursive output: " + Recursive.lengthOfLongestSubstring(test4));
         System.out.println();
 
     }

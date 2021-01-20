@@ -1,3 +1,4 @@
+// This is a slow solution that examines every substring.
 public class Solution {
 
     public static int lengthOfLongestSubstring(String s)
